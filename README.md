@@ -1,0 +1,1 @@
+This page is about my learnings on COR Web Development. That's my first deploy!
